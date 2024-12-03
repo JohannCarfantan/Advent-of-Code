@@ -15,6 +15,7 @@ const [leftList, rightList] = input
         },
         [[], []]
     )
+
 // Part 1
 
 leftList.sort((a, b) => a - b)
